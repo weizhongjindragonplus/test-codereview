@@ -4,3 +4,4 @@ const test = ()=>{
 	return a
 }
 test()
+console.log(123)
